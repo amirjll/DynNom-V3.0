@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "importFrom(\"stats\", \"confint\", \"na.omit\", \"predict\", \"qnorm\", \"qt\",\n             \"quantile\", \"sd\", \"time\", \"update\", \"plogis\")\nimportFrom(\"utils\", \"tail\")\nimportFrom(\"compare\", \"compare\")\nimportFrom(\"survival\", \"survfit\")\nimportFrom(\"rms\", \"survest\")\nimportFrom(\"BBmisc\", \"is.error\")\nimport(ggplot2)\nimport(shiny)\nimport(stargazer)\nimport(compare)\nimport(survival)\nimport(BBmisc)\nexport(DynNom)\nexport(DynNom.lm)\nexport(DynNom.glm)\nexport(DynNom.coxph)\nexport(DynNom.ols)\nexport(DynNom.Glm)\nexport(DynNom.lrm)\nexport(DynNom.cph)\n",
+    "created" : 1478863384714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2096697729",
+    "id" : "2F8950E9",
+    "lastKnownWriteTime" : 1473854357,
+    "last_content_update" : 1473854357,
+    "path" : "C:/Users/Amir/Dropbox/Projects/DynNom project/DynNom V3.0/DynNom/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_namespace"
+}
